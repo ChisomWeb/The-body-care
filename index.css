@@ -4,7 +4,7 @@ body{
 	font-size: 16px;
 }
 .container{
-	background-image: url('../Class Text/Body care.jpg');
+	background-image: url('Body care.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 1000px;
